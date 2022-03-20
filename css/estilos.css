@@ -5,3 +5,8 @@ body
   font-family: 'Lucida Sans'
 }
 
+footer
+{
+  color: blue;
+  background-color: black;
+}
