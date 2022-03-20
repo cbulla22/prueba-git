@@ -2,5 +2,12 @@ body
 {
   color: dodgerblue;
   text-align: center;
-  font-family: Verdana, Geneva, Tahoma, sans-serif
+  font-family: 'Lucida Sans'
+}
+
+#cabecera
+{
+  color: black;
+  background-color: blue;
+
 }
