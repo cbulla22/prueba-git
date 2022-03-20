@@ -5,14 +5,3 @@ body
   font-family: 'Lucida Sans'
 }
 
-#footer
-{
-  color :deepskyblue;
-  background-color: black;
-  margin-left: 45%;
-  border: 100px;
-  padding: 5px;
-  position:fixed;
-  align-content: center;
-  text-align: center;
-}
